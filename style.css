@@ -1,0 +1,41 @@
+.my_nav_bar {
+    position:sticky;
+    top:0;
+}
+#video {
+    width: 100%;
+    height: 500px;
+    border:none;
+}
+.travel_mainDiv {
+    border: 1px solid lemonchiffon;
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i {
+    float: right;
+}
+.acheivement_text span {
+    color: gold;
+}
+#lgi1 {
+    color: #b59410;
+    background-color: blanchedalmond;
+}
+head , body , .WN {
+    background-color:blanchedalmond;
+}
+#lgi2 {
+    color: #71706E;
+    background-color: blanchedalmond;
+}
